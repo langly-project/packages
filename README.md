@@ -24,3 +24,5 @@ Enter to keep the current selection[+], or type selection number: 3
 
 
 Basta executar langly e será encaminhado ao Langly
+
+Obs: a key foi gerada por : https://console.groq.com
