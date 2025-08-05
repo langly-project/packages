@@ -1,7 +1,9 @@
 Instalando Langly
 
 cd /tmp
+
 curl -L -o langly-0_1_9.tar.gz https://raw.githubusercontent.com/langly-project/packages/main/langly-0_1_9.tar.gz
+
 tar -xzf langly-0_1_9.tar.gz
 cd langly
  ./install-langly.sh
