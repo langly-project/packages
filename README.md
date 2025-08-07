@@ -1,4 +1,4 @@
-Instalando Langly
+Exemplo : Instalando Langly
 
 cd /tmp
 
